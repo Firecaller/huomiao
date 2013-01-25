@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://Firecaller.github.com/huomiao/sitemap.xml 
